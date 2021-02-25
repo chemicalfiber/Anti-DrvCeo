@@ -29,9 +29,9 @@
   <a href="https://youtu.be/caQ4b0IaQz8" target="_blank">YouTube</a><br/>
  </p>
  <p>Anti-DrvCeo：适用于卸载驱动总裁2.0（推荐）<br/>
-  <a href="" target="_blank">AcFun</a><br/>
-  <a href="" target="_blank">bilibili</a><br/>
- 	<a href="" target="_blank">YouTube</a><br/>
+  <a href="https://www.acfun.cn/v/ac25816011" target="_blank">AcFun</a><br/>
+  <a href="https://www.bilibili.com/video/BV1eA411M7Sc/" target="_blank">bilibili</a><br/>
+ <a href="https://youtu.be/-yOln8KjtFE" target="_blank">YouTube</a><br/>
  </p>
 </details>
 
